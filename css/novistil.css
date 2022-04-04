@@ -1,0 +1,32 @@
+ul.navbar-nav > li > a {
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+ul.navbar-nav > li.nav-item.dropdown > ul.dropdown-menu > li > a {
+    letter-spacing: 0.15rem;
+}
+
+section {
+    margin-top: 2rem;
+}
+
+.list-unstyled li{
+    padding: 1.5rem;
+    border-bottom: 1px solid #343a40;
+}
+
+.list-unstyled li a{
+    color: black;
+    text-decoration: none;
+}
+
+.photo-gallery{
+    color: #313437;
+    background-color: #fff;
+}
+.photos{
+    padding-bottom: 20px;
+}
+.item{
+    padding-bottom: 30px;
+}
